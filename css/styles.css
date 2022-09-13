@@ -50,6 +50,16 @@ a:hover {
   font-weight: bold;
 }
 
+.inline-links {
+  margin: auto;
+  color: #8758FF;
+}
+
+.inline-links:hover {
+  color: #FFFFF0;
+  font-weight: normal;
+}
+
 .top-container {
   background-color: #5CB8E4;
   position: relative;
